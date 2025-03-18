@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    width:600px;
+    align-items: center;
+    margin:0 auto;
+    height:430px;
+}
+.error{
+    color: red;
+    
+}
+.form label{
+   padding:20px;
+}
+button{
+    margin-top: 10px;
+}

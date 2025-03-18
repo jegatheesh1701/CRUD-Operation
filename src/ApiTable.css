@@ -1,0 +1,12 @@
+.BasicTable thead:nth-child(1){
+    display: none;
+}
+h1{
+    color: blue;
+}
+.BasicTable th{
+    background-color:aqua;
+}
+.BasicTable td{
+    background-color: rgb(130, 240, 240);
+}
